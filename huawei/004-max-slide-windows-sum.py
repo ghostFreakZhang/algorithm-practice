@@ -24,8 +24,8 @@
 nums = int(input())
 nums_list = list(map(int, input().split()))
 windows = int(input())
-max_ = 0
-for i in range(nums):
+max_ = sum(nums_list[:windows])
+for i in range(nums - windows):
     sum_ = sum(nums_list[i:i + windows])
     if sum_ > max_:
         max_ = sum_
