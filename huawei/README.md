@@ -6,3 +6,5 @@
 [内存资源分配](002-memory-allocate.py)
 
 [整数表达为连续自然数之和](003-nums-to-sums.py)
+
+[滑动窗口最大和](004-max-slide-windows-sum.py)
