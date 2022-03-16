@@ -12,3 +12,5 @@
 [组成最大数](005-make-max-num.py)
 
 [消消乐游戏](006-match-game.py)
+
+[矩阵最大值](007-max-value-matrix.py)
