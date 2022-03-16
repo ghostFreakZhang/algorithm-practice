@@ -18,3 +18,5 @@
 [特殊的五键键盘](008-special-5-keyboards.py)
 
 [最远足迹](009-max-footprint.py)
+
+[火星文计算](010-martian-language.py)
