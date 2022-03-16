@@ -16,3 +16,5 @@
 [矩阵最大值](007-max-value-matrix.py)
 
 [特殊的五键键盘](008-special-5-keyboards.py)
+
+[最远足迹](009-max-footprint.py)
