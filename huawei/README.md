@@ -10,3 +10,5 @@
 [滑动窗口最大和](004-max-slide-windows-sum.py)
 
 [组成最大数](005-make-max-num.py)
+
+[消消乐游戏](006-match-game.py)
