@@ -42,3 +42,5 @@
 [非严格递增连续数字序列](020-increase-nums.py)
 
 [字符串分组分割](021-string-split.py)
+
+[一种字符串压缩表示的解压](022-string-unzip-1.py)
