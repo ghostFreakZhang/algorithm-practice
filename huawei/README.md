@@ -44,3 +44,5 @@
 [字符串分组分割](021-string-split.py)
 
 [一种字符串压缩表示的解压](022-string-unzip-1.py)
+
+[字符串简单数据解压缩](023-string-unzip-2.py)
