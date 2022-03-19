@@ -58,3 +58,5 @@
 [括号匹配](028-bracket-match-1.py)
 
 [表达式括号匹配](029-bracket-match-2.py)
+
+[连续最长数字串](030-maxlen-nums-str.py)
