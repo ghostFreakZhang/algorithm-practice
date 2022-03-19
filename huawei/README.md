@@ -56,3 +56,5 @@
 [最大括号深度](027-max-bracket-depth.py)
 
 [括号匹配](028-bracket-match-1.py)
+
+[表达式括号匹配](029-bracket-match-2.py)
