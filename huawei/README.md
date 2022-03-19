@@ -50,3 +50,5 @@
 [按身高和体重排队](024-height-weight-sort.py)
 
 [无重复字符的元素长度乘积的最大值](025-no-dup-str-len-maxproduct.py)
+
+[字符串统计](026-str-count.py)
