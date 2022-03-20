@@ -69,3 +69,5 @@
 [相对开音节](031-relative-open-syllable.py)
 
 [连续字母长度](032-consecutive-letter-length.py)
+
+[字符串加密-1](033-string-encrypt-1.py)
