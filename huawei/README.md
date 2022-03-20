@@ -71,3 +71,5 @@
 [连续字母长度](032-consecutive-letter-length.py)
 
 [字符串加密-1](033-string-encrypt-1.py)
+
+[字符串加密-2](034-string-encrypt-2.py)
