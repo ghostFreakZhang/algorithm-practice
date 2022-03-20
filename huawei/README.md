@@ -67,3 +67,5 @@
 [连续最长数字串](030-maxlen-nums-str.py)
 
 [相对开音节](031-relative-open-syllable.py)
+
+[连续字母长度](032-consecutive-letter-length.py)
