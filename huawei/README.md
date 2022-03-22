@@ -75,3 +75,5 @@
 [字符串加密-2](034-string-encrypt-2.py)
 
 [最高分是多少](035-max-score.py)
+
+[寄存器匹配](036-register-match.py)
