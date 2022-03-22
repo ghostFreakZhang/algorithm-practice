@@ -79,3 +79,5 @@
 [寄存器匹配](036-register-match.py)
 
 [明日之星](037-tomorrow-star.py)
+
+[斗地主之顺子](038-doudizhu.py)
