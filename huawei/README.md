@@ -77,3 +77,5 @@
 [最高分是多少](035-max-score.py)
 
 [寄存器匹配](036-register-match.py)
+
+[明日之星](037-tomorrow-star.py)
