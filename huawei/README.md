@@ -81,3 +81,5 @@
 [明日之星](037-tomorrow-star.py)
 
 [斗地主之顺子](038-doudizhu.py)
+
+[数字反转](039-nums-reverse.py)
