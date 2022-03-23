@@ -87,3 +87,5 @@
 [卡牌游戏](040-poker-game.py)
 
 [k对元素最小值](041-top-k-min.py)
+
+[最多团队](042-max-teams.py)
