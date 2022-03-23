@@ -89,3 +89,5 @@
 [k对元素最小值](041-top-k-min.py)
 
 [最多团队](042-max-teams.py)
+
+[升学考试](043-entrance-exam.py)
