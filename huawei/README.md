@@ -101,3 +101,5 @@
 [找终点](047-find-ending.py)
 
 [绘图机器](048-drawing-machine.py)
+
+[数字涂色](049-nums-color.py)
