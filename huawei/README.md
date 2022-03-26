@@ -103,3 +103,5 @@
 [绘图机器](048-drawing-machine.py)
 
 [数字涂色](049-nums-color.py)
+
+[转骰子](050-throw-dice.py)
