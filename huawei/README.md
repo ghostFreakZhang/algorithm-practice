@@ -99,3 +99,5 @@
 [打印任务排序](046-print-order.py)
 
 [找终点](047-find-ending.py)
+
+[绘图机器](048-drawing-machine.py)
