@@ -4,7 +4,15 @@
 
 业余练题选手, 解法粗糙, 若有问题, 欢迎指正 ;
 
-# 目录
+## 题目来源参考
+
+[牛客网华为机试目录](https://www.nowcoder.com/discuss/854777)
+
+[牛客网华为机试专栏](https://blog.nowcoder.net/zhuanlan/v0Eoqj)
+
+[CSDN 华为机试练习题](https://blog.csdn.net/Guesshat/article/details/122284160)
+
+## 目录
 
 [VLAN资源池](001-vlan-pool.py)
 
@@ -105,3 +113,5 @@
 [数字涂色](049-nums-color.py)
 
 [转骰子](050-throw-dice.py)
+
+[补种未成活胡杨](051-save-trees.py)
