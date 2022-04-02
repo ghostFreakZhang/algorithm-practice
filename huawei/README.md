@@ -115,3 +115,5 @@
 [转骰子](050-throw-dice.py)
 
 [补种未成活胡杨](051-save-trees.py)
+
+[跳格子](052-jump-grid.py)
